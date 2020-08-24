@@ -1,3 +1,5 @@
+TODO : Need Format
+
 1.  Composition : Küçük basit fonksiyonları bir araya getirerek daha komple fonksiyonlar bir araya getirmede kullanılır. React component lerinin altyapısında composition vardır. DOT (Does One Thing) i destekler.
 2.  Declarative Code : Declarative I anlamak için öncelikle imperative e bakmamız gerekiyor. Klasik bir for döngüsü hayal edelim, bir dizinin elemanları içersinde dönüyoruz ve elemanların her birinin sonuna (‘!’) işareti koyuyoruz. Bunu for döngüsü ile yaptığımızda tüm adımları kendimiz yönetmemiz gerekiyor. Bunun declarative karşılığı ise javascript de map() fonksiyonu. Map fonksiyonunda çoğu adımı bizim yönetmemize gerek yok.
 
